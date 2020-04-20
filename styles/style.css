@@ -123,4 +123,16 @@ section h3 {
         align-items: center;
         align-content: space-around;
     }
+    .karma{
+        order:1;
+    }
+
+
+    .supervisor {
+        transform: translate(0, 70%);
+    }
+
+    .calculator {
+        transform: translate(0, 70%);
+    }
 }
