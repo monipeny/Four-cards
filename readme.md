@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+
 
 ## Welcome! 👋
 
@@ -145,4 +145,3 @@ Hay varios lugares donde puede compartir su solución:
 2. Comparta su repositorio y URL en vivo en el canal ** # proyectos terminados ** de la [comunidad Slack] (https://www.frontendmentor.io/slack).
 3. Tuitee [@frontendmentor] (https://twitter.com/frontendmentor) y mencione ** @ frontendmentor ** incluyendo el repositorio y las URL en vivo en el tuit. Nos encantaría echar un vistazo a lo que ha construido y ayudar a compartirlo.
 
-## G
