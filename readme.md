@@ -75,8 +75,6 @@ ________________________________________________________________________________
 ES
 # Frontend Mentor - Sección de características de cuatro tarjetas
 
-! [Vista previa de diseño para el desafío de codificación de la sección de características de cuatro cartas] (./ design / desktop-preview.jpg)
-
 ## ¡Bienvenido! 👋
 
 Gracias por revisar este desafío de codificación front-end.
