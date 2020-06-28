@@ -5,8 +5,6 @@ https://monipeny.github.io/Four-cards/
 
 # Frontend Mentor - Four card feature section
 
-
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -86,7 +84,7 @@ Gracias por revisar este desafío de codificación front-end.
 
 Los desafíos de [Mentor frontend] (https://www.frontendmentor.io) le permiten mejorar sus habilidades en un flujo de trabajo de la vida real.
 
-**Para hacer este desafío, necesita una comprensión básica de HTML y CSS.** 
+**Para hacer este desafío, necesita una comprensión básica de HTML y CSS.**
 
 ## El reto
 
