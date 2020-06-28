@@ -143,7 +143,7 @@ Como se mencionó anteriormente, hay varias formas de alojar su proyecto de form
 Hay varios lugares donde puede compartir su solución:
 
 1. Envíelo en la plataforma para que otros usuarios vean su solución en el sitio. Otros usuarios podrán darle comentarios, lo que podría ayudarlo a mejorar su código para el próximo proyecto.
-2. Comparta su repositorio y URL en vivo en el canal **#proyectos terminados** de la [comunidad Slack] (https://www.frontendmentor.io/slack).
+2. Comparta su repositorio y URL en vivo en el canal **#finished-projects** de la [comunidad Slack] (https://www.frontendmentor.io/slack).
 3. Tuitee [@frontendmentor] (https://twitter.com/frontendmentor) y mencione **@frontendmentor** incluyendo el repositorio y las URL en vivo en el tuit. Nos encantaría echar un vistazo a lo que ha construido y ayudar a compartirlo.
 
 **Have fun building!** 🚀
